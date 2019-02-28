@@ -1,0 +1,10 @@
+C:\Users\HP\Source\Repos\ASLPhraseDictionary\ASLPhraseDictionary\bin\Debug\ASLPhraseDictionary.exe.config
+C:\Users\HP\Source\Repos\ASLPhraseDictionary\ASLPhraseDictionary\bin\Debug\ASLPhraseDictionary.exe
+C:\Users\HP\Source\Repos\ASLPhraseDictionary\ASLPhraseDictionary\bin\Debug\ASLPhraseDictionary.pdb
+C:\Users\HP\Source\Repos\ASLPhraseDictionary\ASLPhraseDictionary\obj\Debug\ASLPhraseDictionary.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\ASLPhraseDictionary\ASLPhraseDictionary\obj\Debug\ASLPhraseDictionary.Form1.resources
+C:\Users\HP\Source\Repos\ASLPhraseDictionary\ASLPhraseDictionary\obj\Debug\ASLPhraseDictionary.Properties.Resources.resources
+C:\Users\HP\Source\Repos\ASLPhraseDictionary\ASLPhraseDictionary\obj\Debug\ASLPhraseDictionary.csproj.GenerateResource.cache
+C:\Users\HP\Source\Repos\ASLPhraseDictionary\ASLPhraseDictionary\obj\Debug\ASLPhraseDictionary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\ASLPhraseDictionary\ASLPhraseDictionary\obj\Debug\ASLPhraseDictionary.exe
+C:\Users\HP\Source\Repos\ASLPhraseDictionary\ASLPhraseDictionary\obj\Debug\ASLPhraseDictionary.pdb
